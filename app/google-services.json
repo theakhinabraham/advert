@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837954973267",
+    "project_id": "newproject2022-60f6d",
+    "storage_bucket": "newproject2022-60f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837954973267:android:18725031d22d7b6fea60a6",
+        "android_client_info": {
+          "package_name": "com.theakhinabraham.taxbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837954973267-5apdm67ds8fuhq3lchl500hgj31vcpn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8S5b6Ohl26mvvF9hQBOGTpSMdYdggV08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837954973267-5apdm67ds8fuhq3lchl500hgj31vcpn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
